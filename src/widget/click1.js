@@ -90,7 +90,7 @@ const Click1 = () => {
     <img 
       src={image2} 
       alt="submit" 
-      style={{ width: '166px', height: '300px' }} 
+      style={{ width: '156px', height: '250px' }}
     />
   </button>
 </form>
@@ -100,5 +100,6 @@ const Click1 = () => {
 };
 
 export default Click1;
+
 
 
